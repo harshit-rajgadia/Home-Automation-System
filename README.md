@@ -1,3 +1,3 @@
 # Home-Automation-System
 
-A Home Automation System that helps control of Electric appliances even when a person is away from his home.
+A model of Home Automation System that helps control of Electric appliances even when a person is away from his home.
